@@ -1,5 +1,5 @@
 # Floor-changing
-AI智能换地板，换瓷砖，换墙漆
+AI智能换地板，换瓷砖，换墙漆，已为多个地板品牌商提供服务，欢迎联系。
 
 
 ![258123_619cbc58eaa38_thumb](https://user-images.githubusercontent.com/30490200/202385972-a3df99e2-bd56-41ad-8862-dc4f1fe3b8f9.png)

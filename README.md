@@ -1,6 +1,6 @@
 # Floor-changing
 
-[ENGLISH](README_en.md) [中文](README.md)  
+[[ENGLISH]](README_en.md)  [[中文]](README.md)  
 
 AI智能换地板，换瓷砖，换墙漆，已为多个地板品牌商提供服务，欢迎联系。
 
